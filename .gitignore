@@ -6,6 +6,7 @@ __pycache__/
 # Ignore saved NumPy data
 flattened_arrays*/
 mean_images*/
+projected_data*/
 reconstructed_images*/
 eigen_data*/
-projected_data*/
+*.npy
