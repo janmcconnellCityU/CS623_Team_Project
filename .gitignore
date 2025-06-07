@@ -2,3 +2,10 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# Ignore saved NumPy data
+flattened_arrays*/
+mean_images*/
+reconstructed_images*/
+eigen_data*/
+projected_data*/
